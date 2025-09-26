@@ -314,3 +314,6 @@ footer > p {
   background-color: #ffffff;
 }
 
+::selection {
+    background: #913800;
+}
