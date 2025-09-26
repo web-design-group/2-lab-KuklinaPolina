@@ -180,7 +180,25 @@ header nav ul li.btn a:hover {
     position: relative;
 }
 
+footer {
+    background: #000000;
+    padding: 30px 0;
+}
 
+footer .blocks {
+    display: flex;
+    justify-content: space-between;
+}
 
+footer hr {
+    margin: 30px 0;
+}
 
+footer > p {
+    text-align: center;
+} 
+
+::selection {
+    background: #090979;
+}
 
